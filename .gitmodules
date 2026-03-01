@@ -1,0 +1,3 @@
+[submodule "NFT/lib/foundry-devops"]
+	path = NFT/lib/foundry-devops
+	url = https://github.com/cyfrin/foundry-devops
