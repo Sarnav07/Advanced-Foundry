@@ -1,7 +1,9 @@
-Simple_Storage/.env
-Simple_Storage/lib
-Simple_Storage/broadcast
-NFT/lib
-ERC20/lib
-DAO/lib
-Raffle/lib
+**/lib/
+**/out/
+**/cache/
+**/broadcast/
+sync-report.json
+
+node_modules/
+
+.env
