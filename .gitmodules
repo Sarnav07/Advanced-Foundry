@@ -1,3 +1,6 @@
 [submodule "NFT/lib/foundry-devops"]
 	path = NFT/lib/foundry-devops
 	url = https://github.com/cyfrin/foundry-devops
+[submodule "Raffle/lib/chainlink-brownie-contracts"]
+	path = Raffle/lib/chainlink-brownie-contracts
+	url = https://github.com/smartcontractkit/chainlink-brownie-contracts
